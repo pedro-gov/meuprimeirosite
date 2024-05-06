@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: wheat;
+}
+
+H1 {
+  color: wheat;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#imagem1 {
+  width: 70%;
+  height: 20%;
+}
+
+div {
+  margin-left: 38%;
+  margin-right: 38%;
+}
+
+header {
+  background:rgb(51, 48, 48);
+
+}
+
+#conteudo-principal {
+  margin: 5%;
+
+}
+
+#imagem3 {
+  width: 50%;
+  height: 20%;
+
+}
+
+div a {
+  font-size: 120%;
+  color: wheat;
+
+}
+
+#imagem_akira {
+  width: 99%;
+ height: 20%;
+
+}
+
+
